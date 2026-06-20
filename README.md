@@ -47,9 +47,9 @@
 <details open>
 <summary>Sponsors</summary>
 
-[![MiniMax](assets/banners/minimax-en.jpeg)](https://platform.minimax.io/subscribe/token-plan?code=lqYrKBvjke&source=link)
+[![MiniMax](assets/banners/minimax-en.png)](https://platform.minimax.io/subscribe/token-plan?code=lqYrKBvjke&source=link)
 
-MiniMax-M2.7 is a next-generation large language model designed for autonomous evolution and real-world productivity. Unlike traditional models, M2.7 actively participates in its own improvement through agent teams, dynamic tool use, and reinforcement learning loops. It delivers strong performance in software engineering (56.22% on SWE-Pro, 55.6% on VIBE-Pro, 57.0% on Terminal Bench 2) and excels in complex office workflows, achieving a leading 1495 ELO on GDPval-AA. With high-fidelity editing across Word, Excel, and PowerPoint, and a 97% adherence rate across 40+ complex skills, M2.7 sets a new standard for building AI-native workflows and organizations.
+MiniMax-M3 pushes the frontier of coding and agentic AI, with a 1M-token context window powered by MiniMax Sparse Attention and natively multimodal capabilities from step zero. It leads across SWE-Bench Pro (59.0), Terminal Bench 2.1 (66.0), VIBE V2 (60.1), SVG-Bench (63.7), KernelBench Hard (28.8), BrowseComp (83.5), GDPval rubrics (74.7), Banker ToolBench (76.1), MCP Atlas (74.2), and OSWorld-verified (70.0). Build, learn, and ship with the MiniMax Token Plan.
 
 [Click here](https://platform.minimax.io/subscribe/token-plan?code=lqYrKBvjke&source=link) to get an exclusive 12% off the MiniMax Token Plan + voucher for cc-connect users!
 
@@ -59,11 +59,6 @@ MiniMax-M2.7 is a next-generation large language model designed for autonomous e
 <tr>
 <td width="150"><a href="https://aigocode.com/invite/CYY3C85C"><img src="assets/sponsors/aigocode.png" alt="AIGoCode" width="120"></a></td>
 <td>Thanks to AIGoCode for sponsoring this project! AIGoCode is an all-in-one platform that integrates Claude Code, Codex, and the latest Gemini models, providing you with stable, efficient, and highly cost-effective AI coding services. The platform offers flexible subscription plans, zero risk of account suspension, direct access with no VPN required, and lightning-fast responses. AIGoCode has prepared a special benefit for cc-connect users: if you register via <a href="https://aigocode.com/invite/CYY3C85C">this link</a>, you'll receive an extra 10% bonus credit on your first top-up!</td>
-</tr>
-
-<tr>
-<td width="150"><a href="https://aihubmix.com/?aff=mGTx"><img src="assets/sponsors/aihubmix.png" alt="AIHubMix" width="120"></a> <b>AIHubMix</b></td>
-<td>Thanks to AIHubMix for sponsoring this project! AIHubMix offers deep integration with 500+ global models including OpenAI, Claude, Gemini, Qwen, DeepSeek, Kimi. Unlimited concurrency, production-grade stability on Google Cloud. One API Key drives all your Agents with native OpenAI/Anthropic/Gemini format support — zero code changes. Pay-as-you-go pricing aligned with official providers, plus free models like coding-glm-5.1-free. <a href="https://aihubmix.com/?aff=mGTx">Click here to sign up!</a></td>
 </tr>
 
 <tr>
@@ -77,18 +72,14 @@ MiniMax-M2.7 is a next-generation large language model designed for autonomous e
 </tr>
 
 <tr>
-<td width="150"><a href="https://nekocode.ai/?aff=CC-CONNECT"><img src="assets/sponsors/nekocode.jpg" alt="NekoCode" width="120"></a></td>
-<td>Thanks to NekoCode for sponsoring this project! NekoCode provides reliable, stable, and efficient API relay services for Claude and CodeX with transparent pricing. Exclusive 10% discount for cc-connect users with promo code: CC-CONNECT. High-value, stable AI model access for developers. Register via <a href="https://nekocode.ai/?aff=CC-CONNECT">this link</a>.</td>
-</tr>
-
 <tr>
 <td width="150"><a href="https://www.shengsuanyun.com/?from=CH_67XCLZGS"><img src="assets/sponsors/shengsuanyun.svg" alt="Shengsuanyun" width="120"></a></td>
 <td>Thanks to Shengsuanyun for sponsoring this project! Shengsuanyun is a super factory dedicated to serving AI Native Teams, an industrial-grade AI task parallel execution platform, and a model marketplace that aggregates and supplies computing power from domestic and international LLM and image/video multimedia models such as Claude, Chatgpt, and Gemini. It guarantees no reverse engineering or data manipulation, boasts a 99.7% SLA availability across the entire site, and its <a href="https://watch.shengsuanyun.com/status/shengsuanyun">monitoring interface</a> is consistently green. Furthermore, it offers an enterprise-grade customized gateway for refined cost and access control, featuring intelligent routing, security protection, and BYOK enterprise-provided key hosting. The platform is billed on a pay-as-you-go basis and with a tokens plan (coming soon), and invoices are available. New users who register using <a href="https://www.shengsuanyun.com/?from=CH_67XCLZGS">this link</a> will receive 10 yuan in model power and a 10% bonus on their first deposit.</td>
 </tr>
 
 <tr>
-<td width="150"><a href="https://www.aicodemirror.com/register?invitecode=KDHMUP"><img src="assets/sponsors/aicodemirror.jpg" alt="AICodeMirror" width="120"></a></td>
-<td>Thanks to AICodeMirror for sponsoring this project! AICodeMirror provides official high-stability relay services for Claude Code / Codex / Gemini CLI, with enterprise-grade concurrency, fast invoicing, and 24/7 dedicated technical support. Claude Code / Codex / Gemini official channels at 38% / 2% / 9% of original price, with extra discounts on top-ups! AICodeMirror offers special benefits for CC users: register via <a href="https://www.aicodemirror.com/register?invitecode=KDHMUP">this link</a> to enjoy 20% off your first top-up, and enterprise customers can get up to 25% off!</td>
+<td width="150"><a href="https://runapi.co/register?aff=4BXa"><img src="assets/sponsors/runapi.jpg" alt="RunAPI" width="120"></a></td>
+<td>Thanks to RunAPI for sponsoring this project! RunAPI is an efficient and stable API platform—an alternative to OpenRouter. A single API Key gives you access to 150+ leading models, including OpenAI, Claude, Gemini, DeepSeek, Grok, and more, at prices as low as 10% of the original (up to 90% off), with exceptional stability. It's seamlessly compatible with tools like Claude Code, OpenClaw, and others. RunAPI offers an exclusive perk for cc-connect users: register and contact an administrator to claim ¥7 in free credit.</td>
 </tr>
 
 <tr>
@@ -139,11 +130,6 @@ MiniMax-M2.7 is a next-generation large language model designed for autonomous e
 
 
 <tr>
-<td width="150"><a href="https://ddshub.short.gy/ccconnect"><img src="assets/sponsors/ddshub.png" alt="DDS Hub" width="120"></a></td>
-<td>Thanks to DDS for sponsoring this project! DDS Hub is a reliable and high-performance Claude and CodeX API proxy service. We provides cost-effective domestic Claude direct acceleration services for both individual and enterprise users. We offer stable and low-latency Claude Max number pools, with full support for Claude Haiku, Opus, Sonnet, GPT 5.4 and other flagship models. Invoices are available for recharges of 1000 RMB or more. Enterprise customers can also enjoy customized grouping and dedicated technical support services. Exclusive benefit for CC connect users: Register via <a href="https://ddshub.short.gy/ccconnect">this link</a> and enjoy an extra 10% credit on your first recharge (please contact the group admin to claim after recharging)!</td>
-</tr>
-
-<tr>
 <td width="150"><a href="https://code0.ai/register?aff=5cGO"><img src="assets/sponsors/code0.svg" alt="Code0" width="120"></a></td>
 <td>Thanks to Code0 for sponsoring this project! Code0 is an AI model aggregation API relay service for Chinese developers, compatible with OpenAI / Anthropic / Gemini protocols. One key for all mainstream models, stable support for Claude Code, Codex, Gemini CLI, cc-connect and more. Fixed exchange rate: ¥1.5 CNY = $1 USD API credit, transparent pricing, domestic direct connection, ready to use. Register via <a href="https://code0.ai/register?aff=5cGO">this link</a>.</td>
 </tr>
@@ -175,16 +161,21 @@ MiniMax-M2.7 is a next-generation large language model designed for autonomous e
 </p>
 
 
-## 🆕 What’s New in v1.3.0
+## 🆕 What’s New in v1.3.3
 
-- **🌐 Web Admin UI (Recommended)** — Full management dashboard embedded in the binary — **no extra dependencies**. Create and edit projects, manage providers, monitor sessions, edit cron jobs, and **chat with your agent directly from the browser**. Supports 5 languages (en/zh/zh-TW/ja/es). We recommend managing cc-connect through the web UI instead of editing `config.toml` by hand. Run `cc-connect web` to configure and open the dashboard, then run `cc-connect` to start the service.
-- **Lifecycle Event Hooks** — New `[[hooks]]` config triggers shell commands or HTTP webhooks on message, session, cron, permission, and error events. Async by default, fail-open.
-- **Skill Management** — New `/skills` page with local skill browser and recommended presets.
-- **Global Provider Management** — Add/edit/delete providers in the web UI; import from cc-switch config.
-- **Personal WeChat** — Chat with your local agent from **Weixin (personal)** via ilink long-polling; QR `weixin setup`, CDN media, no public IP. *[Setup → `docs/weixin.md`](docs/weixin.md)*
-- **Weibo DM** — Chat with your agent via **Weibo private messages** over WebSocket; no public IP needed, text streaming supported.
-- **Feishu Enhancements** — Auto-resolve `@name` mentions, multi-level reply chain recognition, done-emoji reactions.
-- **New Agents** — Kimi CLI and Pi agent support added.
+First stable of the 1.3.3 series — stabilizes beta.1 → beta.5 (≈ 235 PRs since v1.3.2) plus 7 post-beta fixes. Highlights:
+
+- **New agents** — Devin CLI, Google Antigravity (`agy`), GitHub Copilot CLI as first-class agents (#672, #1123, #865). Hardened Cursor / OpenCode / Qoder / Kimi / Pi coverage.
+- **Platform expansion** — QQ (OneBot) file send & receive (#323), QQ Bot inline keyboards (#1131), WeCom `SendFile` in WebSocket (#1199), Feishu audio + video native media (#1202), Slack Assistant API (#844), MAX webhook delivery (#818), DingTalk @mentions / richText / image / file inbound (#1188, #828, #1357), broader Weibo DM, WPS Xiezuo (金山协作).
+- **Long-running turn hardening** — new `max_turn_time_mins` wall-clock cap with soft-stop + force-kill + auto-resume so a long bash / test command can no longer lock a session indefinitely (#1091).
+- **New core commands** — `/timer` (one-shot delayed task), `/cancel` (interrupt current turn), `/ps` (replaces `/btw`, kept as alias), `cron add --silent`, agent-driven TTS.
+- **Multi-user / permissions** — reply-to-unauthorized-IM-senders option, `@Bot/permit` ≡ `/permit` keyword matching, Bridge requires token when enabled.
+- **Provider ecosystem** — NekoCode, VisionCoder, AIHubMix, MiniMax M3 presets; Claude Code 1M-context Opus + `append_system_prompt` + PermissionRequest hooks; Codex `request_user_input` app-server events; configurable `shell` + shell profile for `exec`.
+- **Observability** — blackbox testing framework (P0/P1/P2 + config-switch matrix), CUJ test framework, provider-resume regression suite for codex/opencode/kimi, Pi context-usage reporter in reply footer.
+
+⚠️ **Behavior changes (action may be required)**: Telegram/Discord `progress_style` defaults to `compact` (set `legacy` to revert); QQ Bot default `intents` now include `INTERACTION_CREATE` (custom values must include `1<<26`); DingTalk `msgtype=file` inbound now reaches the agent; engine permission keywords are @mention-tolerant; `reset_on_idle_mins` defaults to 30 min; Bridge with no token configured refuses to start. See `changelogs/v1.3.3.md` for the full themed summary.
+
+No breaking changes. Coming from a v1.3.3-beta.*, this is a small fix-only upgrade.
 
 
 ## 🧩 Platform feature snapshot
@@ -201,15 +192,15 @@ High-level view of what each **built-in platform** can do in cc-connect.
 
 † **QQ (NapCat / OneBot)** — unofficial self-hosted bridge; behaviour depends on your NapCat / network setup.
 
-| Capability | Feishu | WPS Xiezuo | DingTalk | Telegram | Slack | Discord | LINE | WeCom | Weibo | **Weixin**<br>*(personal)* | QQ† | QQ Bot |
-|------------|:------:|:----------:|:--------:|:--------:|:-----:|:-------:|:----:|:-----:|:-----:|:-------------------------:|:---:|:------:|
-| Text & slash commands | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Markdown / cards | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️ | ❌ | ✅ | ✅ | ✅ |
-| Streaming / chunked replies | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Images & files | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ⚠️ | ✅ | ❌ | ✅ | ✅ | ✅ |
-| Voice / STT / TTS | ⚠️ | ❌ | ⚠️ | ✅ | ⚠️ | ⚠️ | ❌ | ⚠️ | ❌ | ✅ | ⚠️ | ⚠️ |
-| Private (DM) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Group / channel | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚠️ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| Capability | Feishu | WPS Xiezuo | DingTalk | Telegram | Slack | Discord | LINE | WeCom | Weibo | **Weixin**<br>*(personal)* | QQ† | QQ Bot | Matrix |
+|------------|:------:|:----------:|:--------:|:--------:|:-----:|:-------:|:----:|:-----:|:-----:|:-------------------------:|:---:|:------:|:------:|
+| Text & slash commands | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Markdown / cards | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️ | ❌ | ✅ | ✅ | ✅ | ⚠️ |
+| Streaming / chunked replies | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Images & files | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ⚠️ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ |
+| Voice / STT / TTS | ⚠️ | ❌ | ⚠️ | ✅ | ⚠️ | ⚠️ | ❌ | ⚠️ | ❌ | ✅ | ⚠️ | ⚠️ | ❌ |
+| Private (DM) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Group / channel | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚠️ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ |
 
 > **WeCom:** Webhook mode needs a **public URL**; long-connection / WS style setups often do not.  
 > **Voice row:** many platforms need `[speech]` / TTS providers enabled in `config.toml`; values are a best-effort summary.  
@@ -219,10 +210,10 @@ High-level view of what each **built-in platform** can do in cc-connect.
 ## ✨ Why cc-connect?
 
 ### 🤖 Universal Agent Support
-**10+ AI Agents** — Claude Code, Codex, Cursor Agent, Kimi CLI, Qoder CLI, Gemini CLI, OpenCode, iFlow CLI, Pi, Devin — plus any agent that supports the [Agent Client Protocol (ACP)](https://agentclientprotocol.com/get-started/agents). Use whichever fits your workflow, or all of them at once.
+**10+ AI Agents** — Claude Code, Codex, Cursor Agent, Kimi CLI, Qoder CLI, Gemini CLI, OpenCode, iFlow CLI, Pi, Devin, Copilot — plus any agent that supports the [Agent Client Protocol (ACP)](https://agentclientprotocol.com/get-started/agents). Use whichever fits your workflow, or all of them at once.
 
 ### 📱 Platform Flexibility
-**12 Chat Platforms** — Feishu, WPS Xiezuo, DingTalk, Slack, Telegram, Discord, WeChat Work, Weibo, LINE, QQ, QQ Bot (Official), plus **Weixin (personal ilink)** for **personal WeChat**. Most platforms need **zero public IP**.
+**13 Chat Platforms** — Feishu, WPS Xiezuo, DingTalk, Slack, Telegram, Discord, WeChat Work, Weibo, LINE, QQ, QQ Bot (Official), Matrix, plus **Weixin (personal ilink)** for **personal WeChat**. Most platforms need **zero public IP**.
 
 ### 🔄 Multi-Agent Orchestration
 **Multi-Bot Relay** — Bind multiple bots in a group chat and let them communicate with each other. Ask Claude, get insights from Gemini — all in one conversation.
@@ -315,6 +306,7 @@ vim ~/.cc-connect/config.toml
 ```
 
 Set `admin_from = "alice,bob"` in a project to allow those user IDs to run privileged commands such as `/dir` and `/shell`.
+`admin_from` must be placed under `[[projects]]` (not under `[projects.platforms.options]`). You can use `/whoami` or `/status` to get your current `User ID`.
 When a user runs `/dir reset`, cc-connect restores the configured `work_dir` and clears the persisted override stored under `data_dir/projects/<project>.state.json`.
 
 
@@ -353,6 +345,7 @@ cc-connect update --pre     # Include pre-releases
 | Agent | iFlow CLI | ✅ Supported |
 | Agent | Kimi CLI (Moonshot) | ✅ Supported |
 | Agent | Pi (Cursor Background Agent) | ✅ Supported |
+| Agent | Copilot (GitHub) | ✅ Supported |
 | Agent | ACP (Agent Client Protocol) | ✅ Any [ACP-compatible agent](https://agentclientprotocol.com/get-started/agents) |
 | Agent | Devin (Cognition) | ✅ Supported (via ACP) |
 | Agent | Goose (Block) | 🔜 Planned |
@@ -369,6 +362,7 @@ cc-connect update --pre     # Include pre-releases
 | Platform | Weixin (personal, ilink) | ✅— HTTP long polling — no public IP needed |
 | Platform | QQ (NapCat/OneBot) | ✅ WebSocket |
 | Platform | QQ Bot (Official) | ✅ WebSocket — no public IP needed |
+| Platform | Matrix | ✅ Long Polling (/sync) — no public IP needed |
 
 
 ## 📖 Platform Setup Guides
@@ -385,6 +379,7 @@ cc-connect update --pre     # Include pre-releases
 | WeChat Work | [docs/wecom.md](docs/wecom.md) | WebSocket / Webhook | No (WS) / Yes (Webhook) |
 | Weixin (personal) | [docs/weixin.md](docs/weixin.md) | HTTP long polling (ilink) | No |
 | QQ / QQ Bot | [docs/qq.md](docs/qq.md) | WebSocket | No |
+| Matrix | [docs/matrix.md](docs/matrix.md) | /sync (Long Polling) | No |
 
 
 ## 🎯 Key Features
@@ -513,7 +508,7 @@ You can control this feature globally in `config.toml`:
 attachment_send = "on"  # default: "on"; set to "off" to block image/file send-back
 ```
 
-This switch is independent from the agent's `/mode`. It only controls `cc-connect send --image/--file`.
+This switch is independent from the agent's `/mode`. It only controls `cc-connect send --image/--file`. Voice send-back uses the TTS config instead.
 
 Examples:
 
@@ -521,11 +516,13 @@ Examples:
 cc-connect send --image /absolute/path/to/chart.png
 cc-connect send --file /absolute/path/to/report.pdf
 cc-connect send --file /absolute/path/to/report.pdf --image /absolute/path/to/chart.png
+cc-connect send --tts "Hello from cc-connect"
 ```
 
 Notes:
 - Absolute paths are the safest option.
 - `--image` and `--file` can both be repeated.
+- `--tts` sends synthesized speech when the user asks for a voice reply.
 - `attachment_send = "off"` disables only attachment send-back; ordinary text replies still work.
 - This command is for generated attachments, not ordinary text replies.
 

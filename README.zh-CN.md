@@ -47,9 +47,9 @@
 <details open>
 <summary>赞助商</summary>
 
-[![MiniMax](assets/banners/minimax-zh.jpeg)](https://platform.minimaxi.com/subscribe/token-plan?code=HAvthxk1tT&source=link)
+[![MiniMax](assets/banners/minimax-zh.png)](https://platform.minimaxi.com/subscribe/token-plan?code=HAvthxk1tT&source=link)
 
-MiniMax M2.7 是 MiniMax 首个深度参与自我迭代的模型，可自主构建复杂 Agent Harness，并基于 Agent Teams、复杂 Skills、Tool Search Tool 等能力完成高复杂度生产力任务；其在软件工程、端到端项目交付及办公场景中表现优异，多项评测接近行业领先水平，同时具备稳定的复杂任务执行、环境交互能力以及良好的情商与身份保持能力。
+MiniMax M3 突破 Coding 与 Agentic AI 前沿，基于 MiniMax Sparse Attention 支持 1M 超长上下文，并从零原生支持多模态。在 SWE-Bench Pro (59.0)、Terminal Bench 2.1 (66.0)、VIBE V2 (60.1)、SVG-Bench (63.7)、KernelBench Hard (28.8)、BrowseComp (83.5)、GDPval rubrics (74.7)、Banker ToolBench (76.1)、MCP Atlas (74.2)、OSWorld-verified (70.0) 等多项基准中领先业界。Mini 价格 Max 性能，Token Plan 助你 Build / Learn / Ship。
 
 [点击此处](https://platform.minimaxi.com/subscribe/token-plan?code=HAvthxk1tT&source=link)享 MiniMax Token Plan 专属 88 折优惠 + cc-connect 用户专属代金券！
 
@@ -59,11 +59,6 @@ MiniMax M2.7 是 MiniMax 首个深度参与自我迭代的模型，可自主构�
 <tr>
 <td width="150"><a href="https://aigocode.com/invite/CYY3C85C"><img src="assets/sponsors/aigocode.png" alt="AIGoCode" width="120"></a></td>
 <td>感谢 AIGoCode 对本项目的赞助！AIGoCode 是集 Claude Code、Codex、最新 Gemini 模型于一体的一站式平台，提供稳定高效、高性价比的 AI 编码服务。灵活订阅方案、零封号风险、无需 VPN 直连、响应速度极快。通过 <a href="https://aigocode.com/invite/CYY3C85C">此链接</a> 注册，首充额外获得 10% 赠送额度！</td>
-</tr>
-
-<tr>
-<td width="150"><a href="https://aihubmix.com/?aff=mGTx"><img src="assets/sponsors/aihubmix.png" alt="AIHubMix" width="120"></a> <b>AIHubMix</b></td>
-<td>感谢 AIHubMix 赞助本项目！500+ 模型一站式覆盖（Claude/GPT/Gemini/Qwen/DeepSeek/通义等），无限并发，谷歌云集群稳定运行。一个 API Key 驱动全部 Agent，支持 OpenAI/Anthropic/Gemini 三种原生格式，代码零改动迁移。按量计费对齐原厂，含免费模型。通过 <a href="https://aihubmix.com/?aff=mGTx">此链接</a> 注册。</td>
 </tr>
 
 <tr>
@@ -77,18 +72,13 @@ MiniMax M2.7 是 MiniMax 首个深度参与自我迭代的模型，可自主构�
 </tr>
 
 <tr>
-<td width="150"><a href="https://nekocode.ai/?aff=CC-CONNECT"><img src="assets/sponsors/nekocode.jpg" alt="NekoCode" width="120"></a></td>
-<td>感谢 NekoCode 赞助本项目！NekoCode 提供 Claude 和 CodeX 的可靠稳定高效的 API 中转站，价格透明。NekoCode 为 CC-CONNECT 用户专属 9 折福利码：CC-CONNECT，为开发者提供高性价比稳定的 AI 模型接入服务。通过 <a href="https://nekocode.ai/?aff=CC-CONNECT">此链接</a> 注册。</td>
-</tr>
-
-<tr>
 <td width="150"><a href="https://www.shengsuanyun.com/?from=CH_67XCLZGS"><img src="assets/sponsors/shengsuanyun.svg" alt="胜算云" width="120"></a></td>
 <td>感谢胜算云赞助了本项目！胜算云是专为 AI Native Teams 服务的超级工厂，工业级 AI 任务并行执行平台，模型商城集采直供聚合接入了 Claude、Chatgpt、Gemini 等海内外 LLM 及图片视频多媒体模型算力，绝无逆向掺水、全站模型 SLA 可用性高达 99.7%、<a href="https://watch.shengsuanyun.com/status/shengsuanyun">监测接口</a>日常全绿。更有企业级专属定制网关，实现团队精细化成本与权限管控，智能路由+安全防护+BYOK 企业自带密钥托管。平台按量及 tokens plan（即将上线）计费，可开票，使用<a href="https://www.shengsuanyun.com/?from=CH_67XCLZGS">此链接</a>注册新用户可获 10 元模力及首充 10% 赠送。</td>
 </tr>
 
 <tr>
-<td width="150"><a href="https://www.aicodemirror.com/register?invitecode=KDHMUP"><img src="assets/sponsors/aicodemirror.jpg" alt="AICodeMirror" width="120"></a></td>
-<td>感谢 AICodeMirror 对本项目的赞助！AICodeMirror 提供 Claude Code / Codex / Gemini CLI 官方高稳定性中转服务，企业级并发、快速开票、24小时专属技术支持。Claude Code / Codex / Gemini 官方渠道价格仅为原价的 38% / 2% / 9%，充值还有额外折扣！AICodeMirror 为 CC 用户专属福利：通过 <a href="https://www.aicodemirror.com/register?invitecode=KDHMUP">此链接</a> 注册首充享受 20% 折扣，企业客户最高可享 25% 折扣！</td>
+<td width="150"><a href="https://runapi.co/register?aff=4BXa"><img src="assets/sponsors/runapi.jpg" alt="RunAPI" width="120"></a></td>
+<td>感谢 RunAPI 对本项目的赞助！RunAPI 是高效稳定的API OpenRouter平替平台，一个 API Key 即可访问 OpenAI、Claude、Gemini、DeepSeek、Grok 等 150+ 主流模型，低至 1 折，极其稳定，可以无缝兼容 Claude Code、OpenClaw 等工具。RunAPI 为 cc-connect的用户提供专属福利：注册联系管理员即可领取￥7的免费额度</td>
 </tr>
 
 <tr>
@@ -139,11 +129,6 @@ MiniMax M2.7 是 MiniMax 首个深度参与自我迭代的模型，可自主构�
 
 
 <tr>
-<td width="150"><a href="https://ddshub.short.gy/ccconnect"><img src="assets/sponsors/ddshub.png" alt="DDS Hub" width="120"></a></td>
-<td>感谢 DDS 赞助本项目！呆呆兽是一家专注 Claude 和 CodeX 的可靠高效 API 中转站，稳定运行、价格透明、开票便捷。为开发者提供高性价比的 AI 模型接入服务。通过 <a href="https://ddshub.short.gy/ccconnect">此链接</a> 注册。</td>
-</tr>
-
-<tr>
 <td width="150"><a href="https://code0.ai/register?aff=5cGO"><img src="assets/sponsors/code0.svg" alt="Code0" width="120"></a></td>
 <td>感谢 Code0 对本项目的赞助！Code0 是面向中国开发者的 AI 模型聚合 API 中转服务，统一兼容 OpenAI / Anthropic / Gemini 三种协议格式，一个 Key 即可调用全量主流模型，稳定适配 Claude Code、Codex、Gemini CLI、cc-connect 等各类 Agent 工具。固定汇率计费：充值 1.5 元人民币 = 1 美元 API 额度，价格透明、国内直连、开箱即用。通过 <a href="https://code0.ai/register?aff=5cGO">此链接</a> 注册。</td>
 </tr>
@@ -175,16 +160,21 @@ MiniMax M2.7 是 MiniMax 首个深度参与自我迭代的模型，可自主构�
 </p>
 
 
-## 🆕 v1.3.0 更新了什么
+## 🆕 v1.3.3 更新了什么
 
-- **🌐 Web 管理后台（推荐）** — 内置全功能可视化管理界面，**无需额外依赖**。支持项目增删改查、服务商管理、会话监控、定时任务编辑，还可以**直接在浏览器里和 Agent 对话**。支持 5 种语言 (en/zh/zh-TW/ja/es)。建议通过 Web UI 管理 cc-connect，无需手动编辑 `config.toml`。运行 `cc-connect web` 配置并打开管理后台，然后运行 `cc-connect` 启动服务。
-- **生命周期事件钩子** — 新增 `[[hooks]]` 配置，支持在消息收发、会话开始/结束、定时任务触发、权限请求、错误等事件时触发 Shell 命令或 HTTP Webhook。默认异步，失败不阻塞。
-- **技能管理** — 新增 `/skills` 页面，支持本地技能浏览和推荐预设。
-- **全局服务商管理** — 在 Web UI 中添加/编辑/删除 Provider，支持从 cc-switch 配置导入。
-- **个人微信** — 用 **微信个人号（ilink 长轮询）** 和本地 Agent 对话；支持扫码 `weixin setup`、CDN 收发图片/文件，**无需公网 IP**。*[接入说明 → `docs/weixin.md`](docs/weixin.md)*
-- **微博私信** — 通过 **微博私信** 与 Agent 对话，WebSocket 连接，无需公网 IP，支持流式文本回复。
-- **飞书增强** — 自动解析 `@成员` 提及、多级回复链识别、完成 Emoji 反应。
-- **新增 Agent** — 支持 Kimi CLI 和 Pi agent。
+1.3.3 系列首个正式版 —— 把 beta.1 → beta.5（自 v1.3.2 起约 235 个 PR）与 7 个 post-beta 修复一并稳定下来。亮点：
+
+- **新增 Agent** — Devin CLI、Google Antigravity (`agy`)、GitHub Copilot CLI 均为一等公民 agent (#672, #1123, #865)；Cursor / OpenCode / Qoder / Kimi / Pi 覆盖大幅加强。
+- **平台能力扩展** — QQ (OneBot) 文件收发 (#323)、QQ Bot 内联键盘 (#1131)、企业微信 WebSocket `SendFile` (#1199)、飞书原生音视频附件 (#1202)、Slack Assistant API (#844)、MAX webhook 投递模式 (#818)、钉钉 @mention / richText / 图片 / 文件入站 (#1188, #828, #1357)、微博私信能力扩充、WPS 协作（金山协作）。
+- **长任务保护** — 新增 `max_turn_time_mins` 绝对墙钟上限，软停 + 强杀 + 下一条消息自动 `--resume`，避免长跑的 bash / test 命令把 session 永久锁住 (#1091)。
+- **新核心命令** — `/timer`（一次性延时任务）、`/cancel`（中断当前 turn）、`/ps`（替代 `/btw`，`/btw` 保留为别名）、`cron add --silent`、agent 主动 TTS 输出。
+- **多用户 / 权限** — 可选「回复未授权 IM 发件人」、`@Bot/permit` ≡ `/permit` 关键字匹配、Bridge 启用时必须配置 token。
+- **Provider 生态** — 新增 NekoCode、VisionCoder、AIHubMix、MiniMax M3 预设；Claude Code 1M-context Opus + `append_system_prompt` + PermissionRequest hooks；Codex `request_user_input` app-server 事件；可配置 `shell` 与 shell profile。
+- **可观测性** — Blackbox 测试框架（P0/P1/P2 + config-switch 矩阵）、CUJ 测试框架、codex/opencode/kimi 的 provider-resume 回归套件、Pi 在 reply footer 输出 context 用量。
+
+⚠️ **行为变更（可能需要改配置）**：Telegram / Discord `progress_style` 默认值改为 `compact`（设回 `legacy` 可还原）；QQ Bot 默认 `intents` 现在包含 `INTERACTION_CREATE`，若自定义 `intents` 需手动包含 `1<<26`；钉钉 `msgtype=file` 入站现在送达 agent；引擎权限关键字容忍 @mention；`reset_on_idle_mins` 默认值改为 30 分钟；Bridge 未配置 token 时拒绝启动。完整主题汇总见 `changelogs/v1.3.3.md`。
+
+无任何破坏性变更（No breaking changes）。从任意 v1.3.3-beta.\* 升级到 v1.3.3 是 fix-only 的小升级。
 
 
 ## 🧩 平台能力一览
@@ -201,15 +191,15 @@ MiniMax M2.7 是 MiniMax 首个深度参与自我迭代的模型，可自主构�
 
 † **QQ（NapCat / OneBot）** — 非官方自建桥接，体验依赖你的 NapCat 与网络环境。
 
-| 能力 | 飞书 | WPS 协作 | 钉钉 | Telegram | Slack | Discord | LINE | 企业微信 | 微博 | **微信个人号**<br>（ilink） | QQ† | QQ 官方机器人 |
-|------|:----:|:--------:|:----:|:--------:|:-----:|:-------:|:----:|:--------:|:----:|:--------------------------:|:---:|:------------:|
-| 文本与斜杠命令 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Markdown / 卡片 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️ | ❌ | ✅ | ✅ | ✅ |
-| 流式 / 分片回复 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 图片与文件 | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ⚠️ | ✅ | ❌ | ✅ | ✅ | ✅ |
-| 语音 / STT / TTS | ⚠️ | ❌ | ⚠️ | ✅ | ⚠️ | ⚠️ | ❌ | ⚠️ | ❌ | ✅ | ⚠️ | ⚠️ |
-| 私聊 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 群聊 / 频道 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚠️ | ✅ | ❌ | ✅ | ✅ | ✅ |
+| 能力 | 飞书 | WPS 协作 | 钉钉 | Telegram | Slack | Discord | LINE | 企业微信 | 微博 | **微信个人号**<br>（ilink） | QQ† | QQ 官方机器人 | Matrix |
+|------|:----:|:--------:|:----:|:--------:|:-----:|:-------:|:----:|:--------:|:----:|:--------------------------:|:---:|:------------:|:-----:|
+| 文本与斜杠命令 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Markdown / 卡片 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚠️ | ⚠️ | ❌ | ✅ | ✅ | ✅ | ⚠️ |
+| 流式 / 分片回复 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 图片与文件 | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ⚠️ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ |
+| 语音 / STT / TTS | ⚠️ | ❌ | ⚠️ | ✅ | ⚠️ | ⚠️ | ❌ | ⚠️ | ❌ | ✅ | ⚠️ | ⚠️ | ❌ |
+| 私聊 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 群聊 / 频道 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚠️ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ |
 
 > **企业微信：** Webhook 模式需要**公网 URL**；长连接等模式多数**不需要**。  
 > **语音行：** 多数平台要在 `config.toml` 里配置 `[speech]` / TTS 等，表中为经验性归纳。  
@@ -219,10 +209,10 @@ MiniMax M2.7 是 MiniMax 首个深度参与自我迭代的模型，可自主构�
 ## ✨ 为什么选择 cc-connect？
 
 ### 🤖 通用 Agent 支持
-**10+ 大 AI Agent** — Claude Code、Codex、Cursor Agent、Kimi CLI、Qoder CLI、Gemini CLI、OpenCode、iFlow CLI、Pi、Devin，还可通过 [Agent Client Protocol (ACP)](https://agentclientprotocol.com/get-started/agents) 接入更多 Agent。按需选用，或同时使用全部。
+**10+ 大 AI Agent** — Claude Code、Codex、Cursor Agent、Kimi CLI、Qoder CLI、Gemini CLI、OpenCode、iFlow CLI、Pi、Devin、Copilot，还可通过 [Agent Client Protocol (ACP)](https://agentclientprotocol.com/get-started/agents) 接入更多 Agent。按需选用，或同时使用全部。
 
 ### 📱 平台灵活性
-**12 大聊天平台** — 飞书、WPS 协作、钉钉、Slack、Telegram、Discord、企业微信、微博、LINE、QQ、QQ 官方机器人，以及 **微信个人号（ilink）**。大部分平台**无需公网 IP**。
+**13 大聊天平台** — 飞书、WPS 协作、钉钉、Slack、Telegram、Discord、企业微信、微博、LINE、QQ、QQ 官方机器人、Matrix，以及 **微信个人号（ilink）**。大部分平台**无需公网 IP**。
 
 ### 🔄 多 Agent 编排
 **多机器人中继** — 在群聊中绑定多个机器人，让它们相互协作。问 Claude，再听 Gemini 的见解 — 同一个对话搞定。
@@ -353,6 +343,7 @@ cc-connect update --pre     # 含预发布版本
 | Agent | iFlow CLI | ✅ 已支持 |
 | Agent | Kimi CLI (Moonshot) | ✅ 已支持 |
 | Agent | Pi (Cursor Background Agent) | ✅ 已支持 |
+| Agent | Copilot (GitHub) | ✅ 已支持 |
 | Agent | ACP (Agent Client Protocol) | ✅ 支持任何 [ACP 兼容 Agent](https://agentclientprotocol.com/get-started/agents) |
 | Agent | Devin (Cognition) | ✅ 已支持（通过 ACP）|
 | Agent | Goose (Block) | 🔜 计划中 |
@@ -369,6 +360,7 @@ cc-connect update --pre     # 含预发布版本
 | Platform | 微信个人号（ilink） | ✅— HTTP 长轮询 — 无需公网 IP |
 | Platform | QQ (NapCat/OneBot) | ✅ WebSocket |
 | Platform | QQ 官方机器人 | ✅ WebSocket — 无需公网 IP |
+| Platform | Matrix | ✅ Long Polling (/sync) — 无需公网 IP |
 
 
 ## 📖 平台接入指南
@@ -385,6 +377,7 @@ cc-connect update --pre     # 含预发布版本
 | 企业微信 | [docs/wecom.md](docs/wecom.md) | WebSocket / Webhook | 不需要 (WS) / 需要 (Webhook) |
 | 微信个人号（ilink） | [docs/weixin.md](docs/weixin.md) | HTTP 长轮询（ilink） | 不需要 |
 | QQ / QQ 机器人 | [docs/qq.md](docs/qq.md) | WebSocket | 不需要 |
+| Matrix | [docs/matrix.md](docs/matrix.md) | /sync（长轮询） | 不需要 |
 
 
 ## 🎯 核心功能
@@ -502,7 +495,7 @@ cc-connect doctor user-isolation
 attachment_send = "on"  # 默认 "on"；设为 "off" 会禁用图片/文件回传
 ```
 
-这个开关与 agent 的 `/mode` 独立，只控制 `cc-connect send --image/--file` 这条附件回传路径。
+这个开关与 agent 的 `/mode` 独立，只控制 `cc-connect send --image/--file` 这条附件回传路径。语音回传走 TTS 配置。
 
 回传方式：
 
@@ -510,11 +503,13 @@ attachment_send = "on"  # 默认 "on"；设为 "off" 会禁用图片/文件回�
 cc-connect send --image /absolute/path/to/chart.png
 cc-connect send --file /absolute/path/to/report.pdf
 cc-connect send --file /absolute/path/to/report.pdf --image /absolute/path/to/chart.png
+cc-connect send --tts "你好"
 ```
 
 要点：
 - 使用绝对路径最稳妥。
 - `--image` 和 `--file` 都可以重复传多个。
+- `--tts` 用当前 TTS provider 合成并发送语音，适合用户自然要求“发语音”的场景。
 - `attachment_send = "off"` 只会关闭附件回传，普通文本回复仍然正常。
 - 这个命令是给“生成后的附件回传”用的，不是给普通文本回复用的。
 
